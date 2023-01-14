@@ -1,4 +1,5 @@
-### Hi there 👋
+*One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important.* -- Bertrand Russell
+
 
 <!--
 **notunrandom/notunrandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
