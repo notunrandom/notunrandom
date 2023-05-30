@@ -2,7 +2,6 @@ import random
 
 import numpy
 from PIL import Image
-from matplotlib import pyplot
 from matplotlib import font_manager
 from wordcloud import WordCloud
 
@@ -54,8 +53,7 @@ __WORDS = {'abstraction': 1,
            'λ-calculus': 5,
            '(λx.M)': 3,
            '((λx.M)E)→(M[x:=E])': 2,
-           '(λx.M[x])→(λy.M[y])': 2
-         }
+           '(λx.M[x])→(λy.M[y])': 2}
 
 
 def color(*args, **kwargs):
